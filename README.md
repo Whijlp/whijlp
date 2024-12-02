@@ -4,7 +4,7 @@
 </p>
 
 <br>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Abaut me</b>
+<img src="https://media.giphy.com/media/FRxHnTUBxQysLAV2eA/giphy.gif?cid=ecf05e47vnaxgvbt2hm02ldmmndscf6frkjso0b4w5uotwpq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width ="25"><b> Abaut me</b>
 <br>
 
 <picture> <img align="right" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=790b76116stonvev3c4d77yy9hkkd8dqh10d9npk6c1cpvv6&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 250px></picture>
