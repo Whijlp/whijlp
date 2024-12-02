@@ -2,12 +2,11 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Whiter+landinez..&hearts;++;Self-taught+Fullstack+we+developer,,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-<img src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=790b76116stonvev3c4d77yy9hkkd8dqh10d9npk6c1cpvv6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <br>
  **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif](https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=790b76116stonvev3c4d77yy9hkkd8dqh10d9npk6c1cpvv6&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width = 250px></picture>
 
 <br>
 
