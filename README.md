@@ -18,8 +18,8 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
+- A passionate Self-taught Full stack developer
+- Currently learning Web Development in tripleten
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
