@@ -3,15 +3,11 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Whiter+landinez..&hearts;++;Self-taught+Fullstack+we+developer,,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-
+<a hrf="https://media.giphy.com/media/9jYtQ2fmBFYkM/giphy.gif?cid=790b76118op9bt9cxtwzos3gurtodira6fexsfxc8ov0dmvr&ep=v1_gifs_search&rid=giphy.gif&ct=g"
 
 <br>
 
-
-
-	
-## <picture><img src = "![image](https://github.com/user-attachments/assets/d1cfeacd-b709-4b2a-b5e7-90c0b2aa13ed)
-" width = 50px></picture> **About me**
+ **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
