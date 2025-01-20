@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Whiter Landinez</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola Mundo !. Soy Whiter Landinez</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Whiter+landinez..&hearts;++;Self-taught+Fullstack+web+developer;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
@@ -18,9 +18,10 @@
 
 <br>
 
-- A passionate Self-taught Full stack developer
-- Currently learning Web Development in tripleten
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Desarrollador Web Full Stack con conocimientos en JavaScript, React y Node.js
+- Actualmente soy estudiante de tripleten
+- Apasionado por la tecnología y la resolución de problemas, disfruto investigando nuevas herramientas
+- Estoy abierto  nuevas oportunidades laborales 
 
 <br><br>
 
